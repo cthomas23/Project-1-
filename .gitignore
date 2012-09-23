@@ -1,21 +1,21 @@
 # Ignore the contributor's local assets folder, subfolders, and files
-ProjectGrits/Assets/~Local/*
-ProjectGrits/Assets/~Local/**/*
+Project Grits/Assets/~Local/*
+Project Grits/Assets/~Local/**/*
 
 # Ignore Library files
-ProjectGrits/Library/*
-ProjectGrits/Library/**/*
+Project Grits/Library/*
+Project Grits/Library/**/*
 
 # Ignore local build files
-ProjectGrits/obj/*
-ProjectGrits/obj/**/*
-ProjectGrits/Temp/*
-ProjectGrits/Temp/**/*
+Project Grits/obj/*
+Project Grits/obj/**/*
+Project Grits/Temp/*
+Project Grits/Temp/**/*
 
 # Ignore local project files
-ProjectGrits/*.csproj
-ProjectGrits/*.pidb
-ProjectGrits/*.sln
-ProjectGrits/*.suo
-ProjectGrits/*.unityproj
-ProjectGrits/*.userprefs
+Project Grits/*.csproj
+Project Grits/*.pidb
+Project Grits/*.sln
+Project Grits/*.suo
+Project Grits/*.unityproj
+Project Grits/*.userprefs
